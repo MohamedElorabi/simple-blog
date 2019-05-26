@@ -1,0 +1,25 @@
+
+
+posts
+	id - tilte - body - image
+
+commentes
+
+
+category
+
+
+users: roles - admin . editor . user
+
+	users --- user_role --- roles
+
+
+like dislike
+
+	HTML   -  Likes  -   Ajax 
+
+
+statistics
+
+
+settings
